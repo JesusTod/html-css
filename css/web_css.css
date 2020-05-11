@@ -1,0 +1,47 @@
+.color_text{
+    color: mediumorchid;
+}
+.color_text_2{
+    color: blue;
+}
+#id1{
+    color: green;
+}
+div{
+    color: black
+}
+*{
+    color: black
+}
+.right_side{
+    text-align: right;
+}
+.shrift{
+    font-family: fantasy;
+}
+.shrift_2{
+    font-style: oblique;
+}
+.centr_text{
+    text-align: center;
+}
+.text_indent{
+    text-indent: 20mm;
+}
+.border{
+    border-style: dotted;
+    text-align: center;
+    font-weight: bold
+}
+.list{
+    list-style-image: url(../images/image_6.PNG);
+}
+.outline{
+    outline-style: solid;
+    text-align: center
+}
+.back_img{
+    background-image: url(../images/image_8.png);
+    background-repeat: no-repeat
+}
+
